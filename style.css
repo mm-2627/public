@@ -394,7 +394,7 @@ padding-left: 10px;
       }
 
 
-    .main h1{
+    .main h1{ /*追加*/
         text-align: center; /*どの長さのタイトルでも真ん中になる*/
         margin-top: 7em; /*各自調整*/
         font-size: 4.5em; /*なるべく同じで、バランスを見て調整してください*/
